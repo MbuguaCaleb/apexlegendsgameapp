@@ -45,4 +45,28 @@ You use {.then(success) .catch(err)} or async await.
 (Therefore you create a vue JS Application in another folder)
 
 
+(c)Concurrently package/json script runs both the server and the client together (concurrently!)
+
+
+```
+
+**Clientdepedencies**
+
+```
+Front end Project dependencies are:
+
+npm i vue-router axios vue-toasted
+
+(toasted is an alerts library!!->laravel toasts(sweet alerts!))
+
+Run the dependencies from the client folder!
+```
+
+**TODOLIST&**
+
+```
+(A)Axios Crash Course
+
+(B)Fetch Api Crash Course
+
 ```
