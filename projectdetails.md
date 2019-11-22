@@ -33,3 +33,16 @@ Thus whenever you are using fetch to make a request to an external API
 You use {.then(success) .catch(err)} or async await.
 
 ```
+
+**VUE-JSFRONT-END**
+
+```
+(a)sudo npm i -g @vue/cli
+
+
+(b) vue create client -creates a vueJS App in the client folder.
+
+(Therefore you create a vue JS Application in another folder)
+
+
+```
