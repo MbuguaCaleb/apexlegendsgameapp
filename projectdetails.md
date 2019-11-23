@@ -60,6 +60,19 @@ npm i vue-router axios vue-toasted
 (toasted is an alerts library!!->laravel toasts(sweet alerts!))
 
 Run the dependencies from the client folder!
+
+```
+
+**VUEEVENTS**
+
+```
+(a) v-on (helps you handle an event like on submit)
+
+There are also some default behaviour when handling events thus then need to prevent default!!
+
+(b)When you want to bind an input to data you use v-model
+Just like angular model.
+
 ```
 
 **TODOLIST&**
@@ -68,5 +81,11 @@ Run the dependencies from the client folder!
 (A)Axios Crash Course
 
 (B)Fetch Api Crash Course
+
+
+(C)VUE JS LIFE CYCLE METHODS:They include beforecreate, componentdidMount{
+    they are called by default when a component is loading!
+}
+
 
 ```
