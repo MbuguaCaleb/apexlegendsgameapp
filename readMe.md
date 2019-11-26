@@ -26,13 +26,3 @@ Every Vue or reactJS Application is loaded as a single page application
 https://intense-hollows-49359.herokuapp.com/
 
 ```
-
-
-**Made by**
-
-```
-MBUGUA CALEB...
-
-(tutor-Travesy Media)
-
-```
