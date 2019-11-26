@@ -72,6 +72,24 @@ There are also some default behaviour when handling events thus then need to pre
 
 (b)When you want to bind an input to data you use v-model
 Just like angular model.
+Its like v-bind for components but this works with the receiving of data.
+
+V-modelis like you are receiving data from an input component ..which you may as well assign.
+
+```
+
+```
+ROUTER has to be configured in main.js and uses Vue.use(Router);
+as its been  configured from the root of the application.
+
+
+```
+
+**DATAANDSTATES**
+
+```
+Any data from a component (v-model input)
+you access it via this key word from an adjacent function.
 
 ```
 
@@ -89,3 +107,10 @@ Just like angular model.
 
 
 ```
+
+ **VUEJSESLINT**
+
+ ```
+
+
+ ```
