@@ -108,9 +108,46 @@ you access it via this key word from an adjacent function.
 
 ```
 
- **VUEJSESLINT**
+**VUEJSESLINT**
 
- ```
+```
+(a)eslint config
+ "rules": {
+      "no-console": "off"
+    },
+    
+```
+
+```
+
+Main.js{instantiate packages in vue like router .js}
+
+{in this project router an toaster are instantiated here.}
+
+Vue Toasted package is so awesome.
+
+V-Model is what is passed to the state as the key.and is what takes the value of the input or select and passes it to the state.
 
 
- ```
+```
+
+**VUEJSROUTERSTRUCTURE**
+
+```
+export default new Router({
+  mode: "history",
+  routes: [
+    {
+      path: "/",
+      name: "search",
+      component: Search
+    },
+    {
+      path: "/profile/:platform/:gamertag",
+      name: "profile",
+      component: Profile
+    }
+  ]
+});
+
+```
