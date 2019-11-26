@@ -115,7 +115,7 @@ you access it via this key word from an adjacent function.
  "rules": {
       "no-console": "off"
     },
-    
+
 ```
 
 ```
@@ -149,5 +149,32 @@ export default new Router({
     }
   ]
 });
+
+```
+
+**TOLEARN**
+
+```
+Axios and Fetch API.
+
+Created is a type of lifecycle method that runs when a component has been created.
+
+Axios like fetch is a http library..(can be
+used to make a request to an external API.)
+
+
+async means its awaiting for a response.
+
+You access data inside classes and other functions via the  this key word.
+
+```
+
+**PROXY**
+
+```
+
+To consume from the backend API We prefix a proxy!
+
+(:)->means you are binding params
 
 ```
