@@ -22,7 +22,13 @@ Every Vue or reactJS Application is loaded as a single page application
 
 **Deployed APP URL**
 
-```
-https://intense-hollows-49359.herokuapp.com/
 
+[Deployed Project Demo Link](https://intense-hollows-49359.herokuapp.com/)
+
+
+
+**Author**
 ```
+Mbugua Caleb
+```
+
